@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments (all common names, plus your custom path)
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+path/to/venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python package stuff
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Secrets
+*.env
+.env.*
+
+# Coverage/testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Mac Finder
+.AppleDouble
+
+# Optional: node_modules if you use frontend js tooling
+node_modules/
+
+# Flask session files, if you ever add session support
+instance/
